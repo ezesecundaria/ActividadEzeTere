@@ -17,7 +17,7 @@ public class ProgramaEze {
     public static void main(String[] args) {
         // TODO code application logic here
         float porcentaje;
-        porcentaje=(12/16);
+        porcentaje=80;
         System.out.println("El porcentaje de alumn@s que quieren que gane el Barça es el "+porcentaje+" %");
     }
     
