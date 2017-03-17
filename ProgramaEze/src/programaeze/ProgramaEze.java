@@ -19,6 +19,7 @@ public class ProgramaEze {
         float porcentaje;
         porcentaje= 75;
         System.out.println("El porcentaje de alumn@s que quieren que gane el Barça es el "+porcentaje+" %");
+        System.out.println("Este cambio se ha hecho en el repositorio remoto...");
     }
     
 }
